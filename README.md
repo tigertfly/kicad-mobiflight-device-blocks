@@ -1,6 +1,6 @@
 # KiCAD design blocks for MobiFlight devices
 
-KiCAD "design blocks" are reusable schematic (and PCB) snippets for PCB design. 
+KiCAD [design blocks](https://docs.kicad.org/9.0/en/eeschema/eeschema.html#schematic-design-blocks) are reusable schematic (and PCB) snippets for PCB design. 
 
 This design block library contains design blocks for  input and output devices supported by [MobiFlight](https://www.mobiflight.com/). It is created with hope that it will be useful for those learning to design printed circuit boards for their flight simulator projects.
 
